@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_beginner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huantingwei/nodejs_beginner.git"
+  },
+  "author": "justbadcodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huantingwei/nodejs_beginner/issues"
+  },
+  "homepage": "https://github.com/huantingwei/nodejs_beginner#readme"
+}
